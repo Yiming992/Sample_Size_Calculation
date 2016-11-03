@@ -1,1 +1,1 @@
-# Sample_Size_Caculation
+# Sample_Size_Calculation
